@@ -13,3 +13,8 @@ _deps
 *.a
 *.o
 *_autogen
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/Nokia-PK-2022.iml
+/.idea/vcs.xml
+/.idea
